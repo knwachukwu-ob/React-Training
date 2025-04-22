@@ -1,0 +1,6 @@
+const WEATHER_FORECAST_ENDPOINTS = {
+	WEATHER_FORECAST: "weatherForecasts",
+	WEATHER_FORECAST_UPDATE: "weatherForecasts",
+};
+
+export default WEATHER_FORECAST_ENDPOINTS;
